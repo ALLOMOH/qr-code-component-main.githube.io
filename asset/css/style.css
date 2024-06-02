@@ -59,6 +59,8 @@ img{
 
 .content-text .title {
     color: var(--Dark-Navy-color);
+    font-size: 12px;
+    font-weight: 700;
 }
 
 .content-text .text{
